@@ -6,6 +6,9 @@ import java.util.HashSet;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * Gauge implementaiton
+ */
 public class StepImplementation {
 
     private HashSet<Character> vowels;
